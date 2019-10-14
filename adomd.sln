@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adomd", "adomd\adomd.csproj", "{43A9CDC4-272D-495B-B3BE-0DBBE2546325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A9CDC4-272D-495B-B3BE-0DBBE2546325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A9CDC4-272D-495B-B3BE-0DBBE2546325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A9CDC4-272D-495B-B3BE-0DBBE2546325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A9CDC4-272D-495B-B3BE-0DBBE2546325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F26CB134-DD9C-4392-A528-11F60C8A2402}
+	EndGlobalSection
+EndGlobal
